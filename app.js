@@ -8,7 +8,7 @@ var path =require('path')
 
 var bodyParser =require('body-parser')
 
-var router =require('./router.js')
+var router =require('./routers/router.js')
 
 var session = require('express-session')
 
